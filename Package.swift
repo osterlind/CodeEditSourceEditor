@@ -20,9 +20,13 @@ let package = Package(
             from: "0.7.6"
         ),
         // tree-sitter languages
+//        .package(
+//            url: "https://github.com/CodeEditApp/CodeEditLanguages.git",
+//            exact: "0.1.19"
+//        ),
         .package(
-            url: "https://github.com/CodeEditApp/CodeEditLanguages.git",
-            exact: "0.1.19"
+            url: "https://github.com/osterlind/CodeEditLanguages",
+            branch: "feature/m68k"
         ),
         // SwiftLint
         .package(

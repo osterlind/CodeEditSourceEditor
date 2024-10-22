@@ -3,10 +3,10 @@
     {
       "identity" : "codeeditlanguages",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/CodeEditApp/CodeEditLanguages.git",
+      "location" : "https://github.com/osterlind/CodeEditLanguages",
       "state" : {
-        "revision" : "5b27f139269e1ea49ceae5e56dca44a3ccad50a1",
-        "version" : "0.1.19"
+        "branch" : "feature/m68k",
+        "revision" : "c4077a802eb673ed3ac541cb0f29cb1b0de88b5b"
       }
     },
     {
